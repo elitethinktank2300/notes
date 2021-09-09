@@ -1,0 +1,2 @@
+INSERT INTO `post_it_note_entity` (`post_id`, `post_content`, `post_text`, `post_title`) VALUES (1, 'IPhone 6S', 'Mobile Phone iPhone6', 'IPhone6');
+INSERT INTO `post_it_note_entity` (`post_id`, `post_content`, `post_text`, `post_title`) VALUES (2, 'java 8 lamba expression', 'java8', 'study');
